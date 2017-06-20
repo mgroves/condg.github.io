@@ -16,7 +16,7 @@ Below is the tentative monthly meeting schedule for 2017.
 |    May    | 25th | [Microservices on Azure Service Fabric: What, How, and Why](/2017/05/12/may-2017-microservices-on-azure-service-fabric/)| Jon Fairchild | [Cardinal Solutions](http://www.cardinalsolutions.com) |
 |    June   | 22nd | Lightning Talks | TBD | Available |
 |    July   | 27th | TBD | [Sam Basu](https://samidipbasu.com/) | [Telerik](http://www.telerik.com/) |
-|   August  | 24th |       TBD       |           | Available |
+|   August  | 24th | [Real-time Apps with SignalR Core](/2017/08/02/signalrcore/) | Brandon Rockwell | Available |
 | September | 28th |       TBD       |           | Available |
 |  October  | 26th |       TBD       |           | Available |
 |  December |  TBD |  Holiday Party  |           | Available |
