@@ -34,4 +34,4 @@ Please join us for a geek dinner after the meeting at The Pub at 1554 Polaris Pa
 
 Our September sponsor is [ComResource](http://comresource.com/)! Thank you!
 
-[![Couchbase](/images/sponsors/ComResource.jpg)](http://comresource.com/)
+[![ComResource](/images/sponsors/ComResource.jpg)](http://comresource.com/)
